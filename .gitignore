@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test and build artifacts
+coverage/
+.tmp/
+tmp/
+_build/
+deps/
+target/
+*.beam
+
+# Logs
+*.log
